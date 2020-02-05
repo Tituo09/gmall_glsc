@@ -1,0 +1,4 @@
+# Project exclude paths
+/gmall-admin/target/
+/gmall-core/target/
+/gmall-generator/target/
